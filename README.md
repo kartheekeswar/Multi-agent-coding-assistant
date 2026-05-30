@@ -54,7 +54,7 @@ Run app:
 streamlit run app.py
 
 ## Project Structure
-
+...
 multi-agent-coding-assistant/
 ├── app.py                    Main Streamlit application
 ├── orchestrator.py           Agent orchestration logic
@@ -68,7 +68,7 @@ multi-agent-coding-assistant/
 │   └── agent_prompts.py      Prompt templates for all agents
 ├── requirements.txt          Python dependencies
 └── packages.txt             System packages
-
+...
 ## Technical Skills Demonstrated
 
 - Multi-agent AI system design and implementation
