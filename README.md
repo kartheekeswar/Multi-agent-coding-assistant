@@ -83,5 +83,3 @@ multi-agent-coding-assistant/
 ## Connect
 
 Live App: https://huggingface.co/spaces/Kartheek321/multi-agent-coding-assistant
-GitHub: https://github.com/Kartheek321/multi-agent-coding-assistant
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
