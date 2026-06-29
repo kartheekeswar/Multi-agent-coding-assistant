@@ -1,15 +1,3 @@
----
-title: Multi Agent Coding Assistant
-emoji: 🤖
-colorFrom: blue
-colorTo: purple
-sdk: streamlit
-sdk_version: "1.39.0"
-app_file: app.py
-pinned: false
-python_version: "3.11"
----
-
 # Multi-Agent Coding Assistant
 
 A production-ready AI application where 5 specialized agents collaborate to deliver complete coding solutions.
